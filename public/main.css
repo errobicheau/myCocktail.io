@@ -1,0 +1,13 @@
+.container {
+    text-align: center;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+
+.inline {
+    display: inline-block
+}
+
+img {
+    width: 200px
+}
