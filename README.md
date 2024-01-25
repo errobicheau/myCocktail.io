@@ -2,33 +2,37 @@
 # myCocktail.io - Web Application
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
-
-![alt tag](http://placecorgi.com/1200/650)
+**Link to project:** https://mycocktailio.netlify.app/
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+myCocktail.io was built on the Node.js engine with the React.js framework for the front-end. Additionally, TailwindCSS was used for styling purposes. This app utilizes data from *The Cocktail DB*'s [open-source cocktail API](https://www.thecocktaildb.com/api.php). Other tools include Lodash for specific methods and Netlify for deployment.
 
-## Optimizations
-*(optional)*
+## Optimizations & Roadmap
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+#### Optimizations
+I consistently work to refactor my code with both readability and efficiency in mind. For mycocktail.io, I look to abstract the code further into a number of different components. This would make the code largely easier to maintain and debug, and would likely lead to performance increases.
+
+#### Roadmap
+As this is intended to be a lightweight and straight-forward front end application, it serves its basic (MVP) purpose quote well. However, the following improvements are scheduled to be added to expand on the app's basic functions and improve its cabaility substantially:
+- Add ability to filter by properties (liquor type, glass type, drink tags)
+- Add ability to search by ingredient(s)
+- Add  ability to save ('favorite') drinks to a user profile.
+- Refine overall search algorithm through additional packages or expansion to full-stack applciation.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+myCocktail.io was a fantastic opportunity to take a deep dive into API usage. Utilizing a robust cocktail database, it has a large number of ways to read, extract, and display data to a user. This project challenged me to implement a flexible and attractive UI using React and TailwindCSS to display these results and quickly adapt to user input as it changes.
 
 ## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+If you enjoy myCocktail.io, I would be thrilled to have you check out some of my other work. Here are a few examples:
 
-**Palettable:** https://github.com/alecortega/palettable
+AutoKeeper: https://github.com/errobicheau/autokeeper
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
+CatBook: https://github.com/errobicheau/catBook
 
 
 
