@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Search from '../components/Search';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import Options from '../components/Options';
+// import Options from '../components/Options';
 
 export const metadata = {
   title: 'myCocktail.io | Cocktail Search Made Easy.'
