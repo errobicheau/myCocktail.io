@@ -1,5 +1,5 @@
 ![myCocktail.io Logo](public/images/logos/cover.png)
-# myCocktail.io - Web Application
+# myCocktail.io - Mixology at Your Fingertips
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
 **Link to project:** https://mycocktailio.netlify.app/
