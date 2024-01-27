@@ -1,6 +1,6 @@
 ![myCocktail.io Logo](public/images/logos/cover.png)
 # myCocktail.io - Mixology at Your Fingertips
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+myCocktail.io is a powerful, lightweight front end application that empowers users to effortlessly search a diverse cocktail database, making it a go-to app for those seeking recipes or info on a variety of cocktails.
 
 **Link to project:** https://mycocktailio.netlify.app/
 
