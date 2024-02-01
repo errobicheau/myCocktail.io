@@ -10,7 +10,7 @@ export const metadata = {
 
 function App() {
   return (
-      <div className="flex flex-col min-h-screen container mx-auto mt-5 mb-10">
+      <div className="flex flex-col min-h-screen container mx-auto mt-5 mb-10 max-w-4xl">
         <main className="flex-grow">
         <Header />
         {/* <Options /> */}

@@ -17,7 +17,7 @@ myCocktail.io was built on the Node.js engine with the React.js framework for th
 I consistently work to refactor my code with both readability and efficiency in mind. For mycocktail.io, I look to abstract the code further into a number of different components. This would make the code largely easier to maintain and debug, and would likely lead to performance increases.
 
 #### Roadmap
-As this is intended to be a lightweight and straight-forward front end application, it serves its basic (MVP) purpose quote well. However, the following improvements are scheduled to be added to expand on the app's basic functions and improve its cabaility substantially:
+As this is intended to be a lightweight and straight-forward front end application, it serves its basic (MVP) purpose quite well. However, the following improvements are scheduled to be added to expand on the app's basic functions and improve its cabaility substantially:
 - Add ability to filter by properties (liquor type, glass type, drink tags)
 - Add ability to search by ingredient(s)
 - Add  ability to save ('favorite') drinks to a user profile.

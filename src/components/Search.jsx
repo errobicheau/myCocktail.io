@@ -58,7 +58,7 @@ if (selectedDrink) {
 }
 
   return (
-    <div className="container mt-6">
+    <div className="container mt-6 mx-auto">
       <input
         type="text"
         placeholder='Search for a Cocktail'
@@ -80,7 +80,7 @@ if (selectedDrink) {
               >
                 <img className="w-1/6" src={drink.strDrinkThumb} alt="Drink" />
                 <div className="flex-grow px-6 py-4">
-                  <h2 className="font-bold text-xl mb-2">{drink.strDrink}</h2>
+                  <h2 className="text-xl mb-2">{drink.strDrink}</h2>
                 
                 </div>
               </div>
