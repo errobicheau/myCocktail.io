@@ -1,12 +1,11 @@
 ![myCocktail.io Logo](public/images/logos/cover.png)
 # myCocktail.io - Mixology at Your Fingertips
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+myCocktail.io is a powerful, lightweight front end application that empowers users to effortlessly search a diverse cocktail database, making it a go-to app for those seeking recipes or info on a variety of cocktails.
 
 **Link to project:** https://mycocktailio.netlify.app/
 
 ## How It's Made:
 
-**Tech used:** 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 myCocktail.io was built on the Node.js engine with the React.js framework for the front-end. Additionally, TailwindCSS was used for styling purposes. This app utilizes data from *The Cocktail DB*'s [open-source cocktail API](https://www.thecocktaildb.com/api.php). Other tools include Lodash for specific methods and Netlify for deployment.
